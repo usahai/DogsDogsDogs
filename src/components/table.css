@@ -1,0 +1,10 @@
+tr:nth-child(even) {
+	background: #fff;
+}
+tr:nth-child(odd) {
+	background: #ccc;
+}
+
+table {
+	width: 100%;
+}
